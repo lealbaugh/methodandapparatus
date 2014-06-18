@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+<div class="post">
+	<h2><a href="{{ post.url | remove_first:"/" }}">{{ post.title }}</a></h2>
+    {% if post.preview-image %}<div class="preview-image"><a href="{{ post.url | remove_first:"/" }}"><img src="{{ site.url }}img/{{ post.preview-image }}"></a></div>{% endif %}
+    {{ post.content }}
+</div>
+{% endfor %}

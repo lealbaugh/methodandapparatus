@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html> 
+  <head>  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script src="{{ root.url }}js/modernizr_custom.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Playfair+Display:900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ root.url }}css/style.css">
+    <title>Method & Apparatus{% if page.title %}: {{ page.title }}{% endif %}</title> 
+  </head> 
+  <body> 
+    <div id="wrap">
+      <div id="header">
+        <h1 class="title"><a href="{{ site.baseurl }}/">METHOD & APPARATUS</a></h1>
+      </div>
+      <div id="links">
+        <span><a href="{{ site.baseurl }}/about.html">About</a></span><span><a href="{{ site.baseurl }}/cfc.html">Contribute</a></span><span><a href="some gumroad url">Buy</a></span>
+      </div>
+      <div id="content">
+        {{ content }}
+      </div>
+    </div>
+  </body>
+</html>
