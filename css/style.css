@@ -219,9 +219,9 @@ b {
   font-weight: bold;
   font-style: italic; }
 
-i {
+i, em {
   font-style: italic; }
 
 img {
   max-width: 100%;
-  border: 1px #3fb8af solid; }
+  border: 1px #333333 solid; }

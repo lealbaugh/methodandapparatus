@@ -4,6 +4,7 @@
 $niceblue: #3FB8AF;
 $darkpink: #DD2C70;
 $cream: #fdffe2;
+$darkish: #333333;
 
 @mixin prettyfont {
 	text-rendering: optimizeLegibility;
@@ -179,7 +180,7 @@ html, body {
 		padding: 5px 0px;
 		a {
 			text-decoration: none;
-			color: #333333;
+			color: $darkish;
 		}
 	}
 
@@ -231,11 +232,11 @@ b {
 	font-style: italic;
 }
 
-i {
+i, em {
 	font-style: italic;
 }
 
 img {
 	max-width: 100%;
-	border: 1px $niceblue solid;
+	border: 1px $darkish solid;
 }

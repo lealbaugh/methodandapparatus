@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Kitten"
+date: 2014-02-22 11:53:27 -0500
+preview-image: "kitten.png"
+---
+You know what's cool? *Italics.*
