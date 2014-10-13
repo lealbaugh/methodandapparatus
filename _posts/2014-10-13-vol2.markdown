@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Volume 2"
+date: 2014-10-12 11:52:38 -0500
+preview-image: "issue_2.jpg"
+---
+
+Volume 2 is live! [Buy it now on Gumroad](https://gumroad.com/l/mWYF)!  Here's what it contains:
+
+* Jamie Perconti - Waveform in A (chiptune album made with Beepbox)
+
+* Vincent Zeng - Be Productive (interactive fiction made in Inform 6)
+
+* Mark Wonnacott - KOOLTOOL: the first month (pdf documenting a new game-making tool!)
+
+* Chris Martens - Transfer Points (re-release of a Twine game + process photos)

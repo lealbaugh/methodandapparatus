@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Volume 1"
+date: 2014-10-12 11:52:38 -0500
+preview-image: "issue_1.jpg"
+---
+
+As an archival issue, Volume 1 is now [*free* on Gumroad](https://gumroad.com/l/KveM)!  Here's what it contains:
+
+* Nathaniel Smith - 3 digital poems (poetry made with Prosaic)
+
+* Tara Copplestone - Cliffords Tower (interactive architecture made with Unity)
+
+* Jason Reed - Weekend Trains (tune made with Beepbox)
+
+* Thomas Winningham - untitled (image made with Quil)
+
+* Jamie Perconti - Bursts (tune made with Beepbox)
+
+* Katherine Ye - syntax (text processing program made with Haskell)
+
+* Chris Martens - lovely garden (game/simulation made with LOVE2D)
